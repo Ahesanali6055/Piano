@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ReactJs.Piano/static/css/main.a04703bb.chunk.css",
-    "main.js": "/ReactJs.Piano/static/js/main.fae385b2.chunk.js",
-    "main.js.map": "/ReactJs.Piano/static/js/main.fae385b2.chunk.js.map",
+    "main.js": "/ReactJs.Piano/static/js/main.aca62013.chunk.js",
+    "main.js.map": "/ReactJs.Piano/static/js/main.aca62013.chunk.js.map",
     "runtime-main.js": "/ReactJs.Piano/static/js/runtime-main.429de71c.js",
     "runtime-main.js.map": "/ReactJs.Piano/static/js/runtime-main.429de71c.js.map",
     "static/js/2.0b6252c8.chunk.js": "/ReactJs.Piano/static/js/2.0b6252c8.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.429de71c.js",
     "static/js/2.0b6252c8.chunk.js",
     "static/css/main.a04703bb.chunk.css",
-    "static/js/main.fae385b2.chunk.js"
+    "static/js/main.aca62013.chunk.js"
   ]
 }
